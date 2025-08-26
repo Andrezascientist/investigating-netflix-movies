@@ -21,13 +21,12 @@ Netflix’s content team wants to understand **what worked in the 1990s** to sup
 
 ## Key Questions
 
-1. What runtime trends dominated 1990s movies?
-2. How prevalent is short-form (< 90 min) content, especially in **Action**?
-3. Which years were most prolific?
-4. Which genres dominated the decade?
+1. What was the most frequent movie duration in the 1990s?
+2. How many **short-Action** movies (<90 min) were released in the 1990s?
+3. Which year in the 1990s had the most movie releases?
+4. Which genres dominated the 1990s?
 5. Where are the **content gaps** we could fill?
    
-
 
 ## Deliverables
 
@@ -57,13 +56,15 @@ Dependencies: pandas, numpy, matplotlib (install with pip install -r requirement
 1. Place `data/netflix_data.csv` in the `data/` folder.
 2. Open `netflix_1990s_case_study.ipynb`.
 3. **Run cells top-to-bottom.**
-4. See answers under sections **Q1–Q5**, with insights and recommendations. Appendix includes validation plots (e.g., exact-minute runtime counts confirming the mode at **94 min**).
+4. See answers under sections **Q1–Q5**, with insights and recommendations. 
 
 
 
 ## Appendix
 
-Includes the **A1** validation plot and brief alternative solution methods for **Q1–Q3**. These are provided for transparency and quick cross-checks; 
+Includes the **A1** validation plot and brief alternative solution methods for **Q1–Q3**. These are provided for transparency and quick cross-checks. 
+
+
 
 ## Skills Demonstrated
 
