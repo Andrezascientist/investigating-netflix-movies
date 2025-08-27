@@ -73,8 +73,6 @@ pip install -r requirements.txt
 - **Top genres:** Action (48), Drama (44), and Comedy (40) dominated, accounting for the bulk of releases.
 - **Content gaps:** Genres below the median (~11–12 titles) — such as Stand-Up (8), Thrillers (5), Horror (4), Documentaries (2), and Cult Movies (2) — were underrepresented.
 
-![1990s Movies per Year](images/movies_per_year.png)
-
 
 ## Recommendations for Stakeholders
 
