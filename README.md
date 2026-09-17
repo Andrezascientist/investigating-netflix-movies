@@ -83,3 +83,8 @@ pip install -r requirements.txt
 - **Anniversary marketing:** Launch seasonal campaigns around late-1990s releases (e.g., “25 Years of 1999 Classics”) to leverage nostalgia.
 - **Genre curation:** Feature Action, Drama, and Comedy prominently in catalog and homepage rows, since they defined the decade.
 - **Fill content gaps:** Strengthen catalog diversity by targeting Stand-Up, Thrillers, Horror, Documentaries, and Cult Movies — testing demand with low-risk acquisitions.
+
+## Notebook
+
+The final polished notebook is available here:
+- [`netflix_1990s_movies_case_study.ipynb`](netflix_1990s_movies_case_study.ipynb)
