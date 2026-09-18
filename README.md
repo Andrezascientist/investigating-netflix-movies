@@ -56,21 +56,23 @@ pip install -r requirements.txt
 
 ## Summary of Insights
 
-- **Most frequent runtime:** 94 minutes — the standard feature length of 1990s movies.
-- **Short Action movies (<90 min):** Only 7 titles (~3.8%) of the catalog, showing scarcity in this niche.
-- **Peak release years:** 1997, 1998, and 1999 each released 26 films, nearly double the early 1990s volume (14–16 per year).
-- **Top genres:** Action (48), Drama (44), and Comedy (40) dominated, accounting for the bulk of releases.
-- **Content gaps:** Genres below the median (~11–12 titles) — such as Stand-Up (8), Thrillers (5), Horror (4), Documentaries (2), and Cult Movies (2) — were underrepresented.
+- **Most frequent duration:** 94 minutes was the most common movie duration.
+- **Short Action movies (<90 min):** 7 titles (3.8%) were shorter than 90 minutes, representing a small portion of the Action movies analyzed.
+- **Peak release years:** 1997, 1998, and 1999 each had 26 movie releases, nearly double the early 1990s volume (14–16 per year).
+- **Top genres:** Action (48), Drama (44), and Comedy (40) dominated, accounted for a large share of the movies in the dataset.
+- **Content gaps:** Genres below the median (~11–12 titles) — such as Stand-Up (8), Thrillers (5), Horror (4), Documentaries (2), and Cult Movies (2) — appeared less frequently in the dataset.
 
 ---
 
-## Recommendations for Stakeholders
+## Recommendations
 
-- **Recommendation engine tuning:** Highlight movies around the 94-minute runtime in “Because you watched 90s classics” suggestions.
-- **Quick-watch Action row:** Create a dedicated carousel for sub-90-minute Action films. Explore licensing/production to expand this niche.
-- **Anniversary marketing:** Launch seasonal campaigns around late-1990s releases (e.g., “25 Years of 1999 Classics”) to leverage nostalgia.
-- **Genre curation:** Feature Action, Drama, and Comedy prominently in catalog and homepage rows, since they defined the decade.
-- **Fill content gaps:** Strengthen catalog diversity by targeting Stand-Up, Thrillers, Horror, Documentaries, and Cult Movies — testing demand with low-risk acquisitions.
+Based on the exploratory analysis:
+
+- Highlight 1990s movies around the 94-minute duration when promoting nostalgic content.
+- Create a dedicated collection for shorter Action movies(<90 min)to improve discoverability.
+- Launch seasonal campaigns around late-1990s releases (e.g., “25 Years of 1999 Classics”) to leverage nostalgia.
+- Feature Action, Drama, and Comedy prominently in 1990s collection, reflecting their strong representation in the dataset.
+- Explore underrepresented genres such as Stand-Up, Thrillers, Horror, Documentaries, and Cult Movies when expanding 1990s content.
 
 ---
 
