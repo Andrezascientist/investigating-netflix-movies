@@ -1,5 +1,5 @@
 
-# Netflix 1990s Movies — Exploratory Case Study
+# Netflix 1990s Movies — Exploratory Data Analysis
 
 <img width="472" height="315" alt="netflix" src="https://github.com/user-attachments/assets/aeba73fd-af2c-484f-80d4-4c025b7bea84" />
 
@@ -9,42 +9,35 @@
 
 **Notebook:** [netflix_1990s_movies_case_study.ipynb](netflix_1990s_movies_case_study.ipynb)
 
+---
+
+## Project Overview
+
+This project explores Netflix movies released during the 1990s to identify patterns in movie duration, genres, and release years. The analysis uses Python for data manipulation, exploratory data analysis, and visualization.
 
 A compact analysis of Netflix movies released in the **1990s**. Each question include
 **why it matters, method, result, and recommendations**, plus an appendix with
 validation plots and alternative approaches.
 
-
-
-## Business Context
-
-Netflix’s content team wants to understand **what worked in the 1990s** to support catalog curation and nostalgic promotions.
-
-
+---
 
 ## Key Questions
 
 1. What was the most frequent movie duration in the 1990s?
-2. How many **short-Action** movies (<90 min) were released in the 1990s?
+2. How many short-Action movies (less than 90 min) were released in the 1990s?
 3. Which year in the 1990s had the most movie releases?
-4. Which genres dominated the 1990s?
-5. Where are the **content gaps** we could fill?
-   
+4. Which genres dominated the decade?
+5. Were any content gaps identified?
 
-## Deliverables
-
-* Clear answers to the five questions, with visualizations.
-* **Actionable recommendations** for stakeholders.
-* A clean, reproducible notebook following best practices.
-
-
+---
 
 ## Dataset
 
-* **File:** `data/netflix_data.csv`
-* **Source:** Provided by DataCamp for educational purposes
-* Cleaning includes: normalized column names, numeric coercion, placeholder detection (e.g., “?”, “Unknown”), duplicate checks, and sanity plots.
+The analysis uses `netflix_data.csv`, containing Netflix title information including release year, duration, and genre.
 
+The data was cleaned before analysis by checking missing values, correcting minor inconsistencies, identifying placeholder values, checking duplicates, and validating the data used in the analysis.
+
+---
 
 ## Requirements:
 Python 3.12.7  
