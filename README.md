@@ -51,15 +51,7 @@ pip install -r requirements.txt
 3. **Run cells top-to-bottom.**
 4. See answers under sections **Q1–Q5**, with insights and recommendations. 
 
-
-## Skills Demonstrated
-
-- Python programming fundamentals  
-- Data manipulation with **pandas**  
-- Exploratory Data Analysis (EDA)  
-- Filtering and grouping data  
-- Basic statistics and counting
-
+---
 
 ## Summary of Insights
 
@@ -69,6 +61,7 @@ pip install -r requirements.txt
 - **Top genres:** Action (48), Drama (44), and Comedy (40) dominated, accounting for the bulk of releases.
 - **Content gaps:** Genres below the median (~11–12 titles) — such as Stand-Up (8), Thrillers (5), Horror (4), Documentaries (2), and Cult Movies (2) — were underrepresented.
 
+---
 
 ## Recommendations for Stakeholders
 
@@ -77,6 +70,8 @@ pip install -r requirements.txt
 - **Anniversary marketing:** Launch seasonal campaigns around late-1990s releases (e.g., “25 Years of 1999 Classics”) to leverage nostalgia.
 - **Genre curation:** Feature Action, Drama, and Comedy prominently in catalog and homepage rows, since they defined the decade.
 - **Fill content gaps:** Strengthen catalog diversity by targeting Stand-Up, Thrillers, Horror, Documentaries, and Cult Movies — testing demand with low-risk acquisitions.
+
+---
 
 ## Notebook
 
