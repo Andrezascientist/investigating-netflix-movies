@@ -1,6 +1,7 @@
-<img width="472" height="315" alt="netflix" src="https://github.com/user-attachments/assets/aeba73fd-af2c-484f-80d4-4c025b7bea84" />
 
 # Netflix 1990s Movies — Exploratory Case Study
+
+<img width="472" height="315" alt="netflix" src="https://github.com/user-attachments/assets/aeba73fd-af2c-484f-80d4-4c025b7bea84" />
 
 **Author:** Andreza Eufrasio
 
