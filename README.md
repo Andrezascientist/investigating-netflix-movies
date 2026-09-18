@@ -6,7 +6,7 @@
 
 **Stack:** Python, pandas, numpy, matplotlib
 
-**Notebook:** [netflix_1990s_case_study.ipynb](netflix_1990s_case_study.ipynb)
+**Notebook:** [netflix_1990s_movies_case_study.ipynb](netflix_1990s_movies_case_study.ipynb)
 
 
 A compact analysis of Netflix movies released in the **1990s**. Each question include
