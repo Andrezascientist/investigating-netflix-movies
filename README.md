@@ -78,5 +78,5 @@ Based on the exploratory analysis:
 
 ## Notebook
 
-The final polished notebook is available here:
-- [`netflix_1990s_movies_case_study.ipynb`](netflix_1990s_movies_case_study.ipynb)
+The final polished notebook is available here:https://andrezascientist.github.io/investigating-netflix-movies/
+
