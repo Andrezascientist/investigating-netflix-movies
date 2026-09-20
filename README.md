@@ -69,7 +69,7 @@ pip install -r requirements.txt
   
 - **Content gaps:** Genres below the median (~11–12 titles) — such as Stand-Up (8), Thrillers (5), Horror (4), Documentaries (2), and Cult Movies (2) — appeared less frequently in the dataset.
 
-
+![Genre Representation — Q5](image/Sample_of_Genres_Below_Median_Presence_1990s.png)
 ---
 
 ## Recommendations
