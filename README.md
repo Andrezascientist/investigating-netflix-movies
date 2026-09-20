@@ -58,9 +58,17 @@ pip install -r requirements.txt
 
   
 - **Short Action movies (<90 min):** 7 titles (3.8%) were shorter than 90 minutes, representing a small portion of the Action movies analyzed.
+  
 - **Peak release years:** 1997, 1998, and 1999 each had 26 movie releases, nearly double the early 1990s volume (14–16 per year).
+
+![Movies by Release Year](image/1990s_movies_by_release_year.png)
+  
 - **Top genres:** Action (48), Drama (44), and Comedy (40) dominated, accounted for a large share of the movies in the dataset.
+
+![Most Represented Genres — Q4](image/1990s_movies_by_dataset_genre.png)
+  
 - **Content gaps:** Genres below the median (~11–12 titles) — such as Stand-Up (8), Thrillers (5), Horror (4), Documentaries (2), and Cult Movies (2) — appeared less frequently in the dataset.
+
 
 ---
 
