@@ -74,16 +74,17 @@ pip install -r requirements.txt
 
 ---
 
-## Recommendations
+## Potential Applications
 
-Based on the exploratory analysis:
+This educational case study demonstrates how exploratory data analysis can support content organization and discovery.
 
-- Highlight 1990s movies around the 94-minute duration when promoting nostalgic content.
-- Create a dedicated collection for shorter Action movies(<90 min)to improve discoverability.
-- Launch seasonal campaigns around late-1990s releases (e.g., “25 Years of 1999 Classics”) to leverage nostalgia.
-- Feature Action, Drama, and Comedy prominently in 1990s collection, reflecting their strong representation in the dataset.
-- Explore underrepresented genres such as Stand-Up, Thrillers, Horror, Documentaries, and Cult Movies when expanding 1990s content.
+- **Duration-Based Collections:** Create collections of approximately 90-minute movies and short Action films to help viewers discover titles based on their available viewing time.
 
+- **Nostalgic Curation:** Organize movies released between 1997 and 1999 into themed collections highlighting late-1990s titles.
+
+- **Genre Discovery:** Feature Action, Drama, and Comedy in dedicated 1990s movie collections, reflecting their strong representation in the dataset.
+
+- **Content Diversity:** Create themed collections featuring less-represented genres, such as Stand-Up, Thrillers, Horror Movies, Documentaries, and Cult Movies, to improve their visibility.s, Horror Movies, Documentaries, and Cult Movies, to improve their visibility.
 ---
 
 ## Notebook
