@@ -15,10 +15,6 @@
 
 This project explores Netflix movies released during the 1990s to identify patterns in movie duration, genres, and release years. The analysis uses Python for data manipulation, exploratory data analysis, and visualization.
 
-A compact analysis of Netflix movies released in the **1990s**. Each question include
-**why it matters, method, result, and recommendations**, plus an appendix with
-validation plots and alternative approaches.
-
 ---
 
 ## Key Questions
