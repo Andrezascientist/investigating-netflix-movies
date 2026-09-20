@@ -63,8 +63,9 @@ pip install -r requirements.txt
 
 ![Movies by Release Year — Q3](image/1990s_movies_by_release_year.png)
   
-- **Top genres:** Action (48), Drama (44), and Comedy (40) dominated, accounted for a large share of the movies in the dataset.
 
+- **Top genres:** Action (48), Drama (44), and Comedy (40) were the most represented genres, accounting for approximately 72.1% (132 of 183 movies) of the 1990s Netflix dataset.
+  
 ![Most Represented Genres — Q4](image/1990s_movies_by_dataset_genre.png)
   
 - **Content gaps:** Genres below the median (~11–12 titles) — such as Stand-Up (8), Thrillers (5), Horror (4), Documentaries (2), and Cult Movies (2) — appeared less frequently in the dataset.
