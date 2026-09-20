@@ -54,7 +54,7 @@ pip install -r requirements.txt
 
 - **Most frequent duration:** 94 minutes was the most common movie duration.
   
-![Movie Duration Distribution](image/1990s_movie_duration_distribution.png)
+![Movie Duration Distribution](image/movie_duration_1990s.png)
 
   
 - **Short Action movies (<90 min):** 7 titles (3.8%) were shorter than 90 minutes, representing a small portion of the Action movies analyzed.
