@@ -53,7 +53,7 @@ pip install -r requirements.txt
 ## Summary of Insights
 
 - **Most frequent duration:** 94 minutes was the most common movie duration, appearing in 7 titles. The histogram shows that most movie durations were concentrated around 90–110 minutes, although the dataset includes both shorter and longer movies.
-- 
+  
 ![Movie Duration Distribution — Q1](image/movie_duration_1990s.png)
 
   
