@@ -58,8 +58,8 @@ pip install -r requirements.txt
 
   
 - **Short Action movies (<90 min):** 7 titles (3.8%) were shorter than 90 minutes, representing a small portion of the Action movies analyzed.
-  
-- **Peak release years:** 1997, 1998, and 1999 each had 26 movie releases, nearly double the early 1990s volume (14–16 per year).
+
+- **Peak release years:** 1997, 1998, and 1999 had the highest number of movie releases in the dataset, with 26 titles each. This was an increase from the 14–16 movies per year recorded between 1990 and 1996.
 
 ![Movies by Release Year — Q3](image/1990s_movies_by_release_year.png)
   
