@@ -53,6 +53,10 @@ pip install -r requirements.txt
 ## Summary of Insights
 
 - **Most frequent duration:** 94 minutes was the most common movie duration.
+  
+![Movie Duration Distribution](image/1990s_movie_duration_distribution.png)
+
+  
 - **Short Action movies (<90 min):** 7 titles (3.8%) were shorter than 90 minutes, representing a small portion of the Action movies analyzed.
 - **Peak release years:** 1997, 1998, and 1999 each had 26 movie releases, nearly double the early 1990s volume (14–16 per year).
 - **Top genres:** Action (48), Drama (44), and Comedy (40) dominated, accounted for a large share of the movies in the dataset.
