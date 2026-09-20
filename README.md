@@ -68,8 +68,8 @@ pip install -r requirements.txt
   
 ![Most Represented Genres — Q4](image/1990s_movies_by_dataset_genre.png)
   
-- **Content gaps:** Genres below the median (~11–12 titles) — such as Stand-Up (8), Thrillers (5), Horror (4), Documentaries (2), and Cult Movies (2) — appeared less frequently in the dataset.
-
+- **Potential content gaps:** Five genres fell below the median of 11.5 movies per genre: Stand-Up (8), Thrillers (5), Horror Movies (4), Documentaries (2), and Cult Movies (2). Documentaries and Cult Movies had the lowest representation, with only 2 titles each.
+  
 ![Genre Representation — Q5](image/Sample%20of%20Genres%20Below%20Median%20Presence%201990s%20%28Gaps%29.png)
 
 ---
